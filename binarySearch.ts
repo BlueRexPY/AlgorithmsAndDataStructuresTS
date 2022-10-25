@@ -44,3 +44,5 @@ count = 0;
 
 console.log("index: " + recursiveBinarySearch(arr, 0, 0, arr.length)); 
 console.log("count: " + count); 
+
+export {};
