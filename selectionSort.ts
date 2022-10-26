@@ -22,4 +22,4 @@ const selectionSort = (arr) => {
 console.log("sort: " + selectionSort(arr));// O(n*n)
 console.log("count: " + count); // 676
 
-export {};
+export { };

@@ -13,4 +13,4 @@ const linerSearch = (arr, item) => {
 console.log("index: " + linerSearch(arr, 4)); //1
 console.log("count: " + count); //2
 
-export {};
+export { };

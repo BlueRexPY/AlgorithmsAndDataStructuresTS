@@ -20,4 +20,4 @@ const bubbleSort = (arr) => {
 console.log("sort: " + bubbleSort(arr)); // O(n*n)
 console.log("count: " + count); //676
 
-export {};
+export { };

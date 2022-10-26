@@ -42,7 +42,7 @@ console.log("index: " + binarySearch(arr, 4)); //3
 console.log("count: " + count); // 6
 count = 0;
 
-console.log("index: " + recursiveBinarySearch(arr, 0, 0, arr.length)); 
-console.log("count: " + count); 
+console.log("index: " + recursiveBinarySearch(arr, 0, 0, arr.length));
+console.log("count: " + count);
 
-export {};
+export { };

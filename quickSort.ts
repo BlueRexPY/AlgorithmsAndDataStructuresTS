@@ -27,4 +27,4 @@ const quickSort = (arr) => {
 console.log("sort: " + quickSort(arr));// O(log2 n*n)
 console.log("count: " + count); // 105
 
-export {};
+export { };

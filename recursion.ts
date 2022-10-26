@@ -15,4 +15,4 @@ const fibonacci = (n) => {
 console.log("fibonacci 10: " + fibonacci(10))//55
 console.log("factorial 10: " + factorial(10))//3628800
 
-export {};
+export { };
